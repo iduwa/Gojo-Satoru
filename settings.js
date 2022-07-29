@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['91**********']
-global.premium = ['91**********']
-global.ownernomer = '91**********'
-global.ownername = '𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
-global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻 𝑺𝑬𝑹 𝑩𝑶𝑻'
+global.owner = ['94768397085']
+global.premium = ['94768397085']
+global.ownernomer = '94768397085'
+global.ownername = '𝙄𝘿𝙐 𝘽𝙊𝙏'
+global.botname = '𝙿𝙾𝚆𝙴𝚁𝙴𝙳𝙴𝙳 𝙱𝚈 𝙸𝙳𝚄'
 global.footer = '©sᴇʀᴅᴏᴍɪɴᴀᴛᴏʀ'
 global.ig = 'https://github.com/dominator454'
 global.region = 'India, South India, Kerala'
